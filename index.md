@@ -12,4 +12,4 @@ Agenda:
 
 | Name | Instituition | GitHub username |
 | ----------- | ----------- |
-| Anna Horiunova | University of Regina |[iohappa](https://github.com/iohappa) |
+| Anna Horiunova | University of Regina | [iohappa](https://github.com/iohappa) |
