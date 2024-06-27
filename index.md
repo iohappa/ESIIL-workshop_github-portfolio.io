@@ -10,6 +10,6 @@ Agenda:
   * Practice on creating html page
   * Branches and Pull requests 
 
-| Name | Instituition | GitHub username |
-| ----------- | ----------- |
-| Anna Horiunova | University of Regina | [iohappa](https://github.com/iohappa) |
+| Name | Instituition | GitHub username | 
+| ----------- | ----------- | 
+| Anna Horiunova | University of Regina | [iohappa](https://github.com/iohappa) | 
